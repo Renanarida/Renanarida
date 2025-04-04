@@ -19,7 +19,6 @@
 <strong>Ferramentas</strong> 
   <br/>
 <code><img height="32 "src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /></code>
-<code><img height="32 "src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" /></code>
 <code><img height="32 "src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /></code>
                               
 </p>
