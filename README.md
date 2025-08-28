@@ -8,7 +8,6 @@
 </div>
 
 
-
 <p align="center" >
 <strong>Front-end:</strong>
 <br/>
