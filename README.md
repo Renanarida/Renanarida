@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=header&text=👋%20Welcome!&fontSize=40&fontColor=fff&fontAlignY=35" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=800080&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Renan+Arida!;💻+Front-end+and+Back-end+Developer;🚀+Laravel+|+React+|+Docker;👨‍💻+18+years+old,+from+Douradina,+PR!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=800080&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Renan+Arida!;+18+years+old,+from+Douradina,+PR!" />
 </h1>
 
 ---
