@@ -37,9 +37,11 @@
 
 ### 🧰 Ferramentas
 <code><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/></code>
-<code><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="NPM"/></code>
 <code><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code"/></code>
+<code><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="NPM"/></code>
 <code><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker"/></code>
+<code><img height="48" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/insomnia.svg" title="Insomnia"/></code>
+<code><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" title="Postman"/></code>
 
 </div>
 
