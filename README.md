@@ -20,9 +20,9 @@
 ### 🎨 Front-end
 <code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5"/></code>
 <code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3"/></code>
+<code><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap"/></code>
 <code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript"/></code>
 <code><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript"/></code>
-<code><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap"/></code>
 <code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React"/></code>
 
 ---
