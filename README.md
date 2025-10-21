@@ -40,7 +40,7 @@
 <code><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code"/></code>
 <code><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="NPM"/></code>
 <code><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker"/></code>
-<code><img height="48" style="border-radius: 8px; background: transparent;" src="https://seeklogo.com/images/D/dbeaver-logo-28C74DD878-seeklogo.com.png" title="DBeaver"/></code>
+<code><img height="48" src="https://cdn.simpleicons.org/dbeaver" title="DBeaver"/></code>
 <code><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" title="Insomnia"/></code>
 <code><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" title="Postman"/></code>
 
