@@ -60,13 +60,6 @@
 
 ---
 
-### 🧠 Quote of the Day
-<div align="center">
-  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&color=800080)
-  
-</div> 
-
 ---
 
 ### 🛸 Fun Zone
