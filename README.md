@@ -8,10 +8,18 @@
 
 ### ⚙️ GitHub Analytics
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Renanarida&show_icons=true&count_private=true&hide_border=true&title_color=800080&icon_color=800080&text_color=800080&bg_color=0d1117" alt="GitHub Stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renanarida&layout=compact&hide_border=true&title_color=800080&text_color=800080&bg_color=0d1117" />
-</div>
 
+  <img 
+    width="49%" 
+    src="https://github-readme-stats.vercel.app/api?username=Renanarida&show_icons=true&count_private=true&hide_border=true&title_color=800080&icon_color=800080&text_color=ffffff&bg_color=0d1117&rank_icon=github&include_all_commits=true&cache_seconds=1800" 
+  />
+
+  <img 
+    width="41%" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renanarida&layout=compact&hide_border=true&title_color=800080&text_color=ffffff&bg_color=0d1117&langs_count=8&cache_seconds=1800" 
+  />
+
+</div>
 ---
 
 ### 💡 Tech Stack
