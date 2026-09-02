@@ -91,28 +91,6 @@ I work with both **front-end and back-end development**, building web applicatio
 
 </div>
 
----
-
-## 🚀 Featured Projects
-
-### 💼 Project 01
-> Write here a short description of your project.
-
-**Technologies:** React • Laravel • MySQL
-
-[🔗 View Project](#)
-
----
-
-### 💻 Project 02
-> Write here a short description of your project.
-
-**Technologies:** React • TypeScript • PHP
-
-[🔗 View Project](#)
-
----
-
 ## 📚 Currently Learning
 
 ```text
