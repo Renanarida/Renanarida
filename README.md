@@ -8,12 +8,13 @@
 
 ## 👨‍💻 About Me
 
-Hello! My name is **Renan Yukio Arida**, I'm 19 years old and I'm from **Douradina, Paraná, Brazil**.
+Hello! I'm **Renan Yukio Arida**, a **Full-Stack Developer** from **Douradina, Paraná, Brazil** 🇧🇷.
 
-I'm a **Full-Stack Developer** passionate about technology, programming and software development.
+I'm currently pursuing a degree in **Internet Systems at Unialfa** and working as a **Developer at Gazin Tech**.
 
-I work with both **front-end and back-end development**, building web applications and systems using modern technologies.
+I have a strong interest in **web development, software engineering, and modern technologies**. I'm constantly improving my technical skills by working on real-world projects, exploring new technologies, and building solutions that solve practical problems.
 
+🚀 **Always learning. Always building. Always improving.**
 ### 🚀 What I do
 
 - 💻 Full-Stack Web Development
