@@ -90,13 +90,3 @@ I work with both **front-end and back-end development**, building web applicatio
 [![GitHub Streak](https://streak-stats.demolab.com?user=Renanarida&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
 
 </div>
-
-## 📚 Currently Learning
-
-```text
-🚀 Advanced Full-Stack Development
-⚛️ React
-🐘 Laravel / PHP
-🗄️ Database Architecture
-🐳 Docker
-🔧 Software Architecture
